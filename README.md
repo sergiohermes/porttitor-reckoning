@@ -4,7 +4,7 @@ Porttitor Reckoning Platform ©
 Visão geral
 ###
 
-# porttitor-reckoning [! [Build Status] (https://travis-ci.org/sergiohermes/porttitor-reckoning.svg?branch=master)] (https://travis-ci.org/sergiohermes/porttitor-reckoning)
+# porttitor-reckoning [! [Build Status] (https://travis-ci.org/porttitor/Reckoning.svg?branch=master)] (https://travis-ci.org/porttitor/Reckoning)
 
 ## Visão geral
 Este módulo fornece uma maneira simples de decodificar mensagens de dispositivos GPS no formato UBX.
